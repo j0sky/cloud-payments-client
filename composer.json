@@ -1,7 +1,7 @@
 {
-    "name" : "Troytft/cloud-payments-client",
+    "name" : "j0sky/cloud-payments-client",
     "description": "Client for CloudPayments.ru",
-    "version" : "0.0.7",
+    "version" : "0.0.8",
     "type" : "library",
     "license" : "MIT",
     "require" : {
