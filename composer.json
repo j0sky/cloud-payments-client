@@ -1,5 +1,5 @@
 {
-    "name" : "j0sky/cloud-payments-client",
+    "name" : "Troytft/cloud-payments-client",
     "description": "Client for CloudPayments.ru",
     "version" : "0.0.7",
     "type" : "library",
